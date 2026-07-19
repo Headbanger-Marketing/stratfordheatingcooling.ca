@@ -17,8 +17,8 @@ CITY        = "Stratford"
 REGION      = "Ontario"
 REGION_ABBR = "ON"
 COUNTY      = "Perth/Huron"
-PHONE_DISPLAY = "(000) 000-0000"
-PHONE_TEL     = "+10000000000"
+PHONE_DISPLAY = "(519) 271-8333"
+PHONE_TEL     = "+15192718333"
 EMAIL         = "contact@stratfordheatingcooling.ca"
 ADDR_STREET   = "80 Ontario St"
 ADDR_LOCALITY = "Stratford"
@@ -93,11 +93,7 @@ LOGO_MARK = '''<svg class="brand__mark" viewBox="0 0 48 48" fill="none" xmlns="h
 def brand(footer=False):
     cls = "brand footer-brand" if footer else "brand"
     return f'''<a class="{cls}" href="/" aria-label="{SITE_NAME} home">
-      {LOGO_MARK}
-      <span class="brand__text">
-        <span class="brand__name">{CITY}</span>
-        <span class="brand__tag">Heating &amp; Cooling</span>
-      </span>
+      <img class="brand__logo" src="/assets/img/logo.png" alt="{SITE_NAME}" loading="eager" decoding="async">
     </a>'''
 
 # ------------------------------------------------------------------ NAV / SERVICES DATA
@@ -278,7 +274,7 @@ def head(title, desc, path, schema_blocks=None, og_type="website", robots="index
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{canonical}">
 <meta name="robots" content="{robots}">
-<meta name="theme-color" content="111118">
+<meta name="theme-color" content="#103050">
 <meta property="og:type" content="{og_type}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:title" content="{title}">
