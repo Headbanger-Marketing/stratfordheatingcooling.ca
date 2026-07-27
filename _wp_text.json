@@ -1,0 +1,279 @@
+{
+  "domain": "stratfordheatingcooling.ca",
+  "origin_ip": "152.53.124.236",
+  "title": "Stratford Heating & Cooling - Heating & Cooling Repair Stratford ON",
+  "blocks": [
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Dependable Home Comfort You Can Count On",
+      "chars": 40
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "When you need reliable heating, cooling, or HVAC service in Stratford, you deserve a team that delivers lasting results. From fast repairs to complete system installations, Stratford Heating & Cooling is here to keep your home comfortable in every season.",
+      "chars": 255
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "100% Satisfaction Guaranteed",
+      "chars": 28
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Trusted Heating and Cooling Experts Serving Your Community",
+      "chars": 58
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "At Stratford Heating & Cooling, we treat your home like our own. For decades, homeowners throughout Stratford, Ontario and surrounding communities have relied on our skilled technicians for dependable heating, cooling, and full HVAC services. As a long-standing part of the local community, we understand how important reliable indoor comfort is during freezing winters and humid summers. Whether you need emergency repairs, system upgrades, or routine maintenance, our team delivers honest recommendations, expert workmanship, and lasting results.",
+      "chars": 548
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Complete Heating & Cooling Services in Stratford, Ontario",
+      "chars": 57
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "From urgent repairs to energy-efficient system installations, we provide comprehensive HVAC services designed to keep your home comfortable and efficient all year long.",
+      "chars": 168
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Air Conditioning Repair & Installation",
+      "chars": 38
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Stay cool when temperatures rise with professional AC repair and installation. From diagnosing cooling issues to installing high-efficiency systems, we ensure dependable performance and consistent comfort throughout summer.",
+      "chars": 223
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Furnace Repair & Heating System Service",
+      "chars": 39
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Keep your home warm and safe through the coldest months with expert furnace repair, inspection, and maintenance. We service all makes and models, restoring reliable heat while improving system performance and efficiency.",
+      "chars": 220
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Heat Pump Installation & Energy-Efficient Comfort Solutions",
+      "chars": 59
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Enjoy year-round climate control with modern heat pump systems that provide both heating and cooling. Our team installs and maintains energy-efficient solutions designed to reduce utility costs without sacrificing comfort.",
+      "chars": 222
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "What You Can Expect When You Hire Our HVAC Team",
+      "chars": 47
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We make the process simple, transparent, and stress-free from the first call to final inspection.",
+      "chars": 97
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We carefully assess your heating or cooling issue, explain the problem clearly, and recommend practical solutions tailored to your home.",
+      "chars": 136
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Professional Service & Clean Workmanship",
+      "chars": 40
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Our technicians arrive on time, complete the work efficiently, and respect your home — leaving everything clean and comfortable.",
+      "chars": 128
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Ongoing Support & Preventive Care",
+      "chars": 33
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We provide maintenance and long-term system care to help extend equipment life, improve efficiency, and prevent unexpected breakdowns.",
+      "chars": 134
+    },
+    {
+      "tag": "h2",
+      "kind": "review_heading",
+      "text": "What Homeowners Are Saying About Our Work",
+      "chars": 41
+    },
+    {
+      "tag": "p",
+      "kind": "review",
+      "text": "“Excellent service from start to finish. They repaired our furnace quickly and explained everything clearly.”",
+      "chars": 109
+    },
+    {
+      "tag": "p",
+      "kind": "review",
+      "text": "“Our new AC system runs perfectly. Professional installation and honest recommendations.”",
+      "chars": 89
+    },
+    {
+      "tag": "p",
+      "kind": "review",
+      "text": "“Reliable, knowledgeable, and friendly technicians. We trust them with all our HVAC needs.”",
+      "chars": 91
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Ready to Solve Your Heating or Cooling Problem",
+      "chars": 46
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "No matter the issue, our experienced technicians are ready to restore comfort quickly and efficiently. From repairs and maintenance to full system replacements, we’re here to help every step of the way.",
+      "chars": 202
+    },
+    {
+      "tag": "h2",
+      "kind": "blog_heading",
+      "text": "Latest Home Comfort Tips & HVAC Insights",
+      "chars": 40
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Explore our latest articles to help you maintain your air quality and recognize when it’s time to call in the pros.",
+      "chars": 115
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "How Regular Furnace and Heat Pump Maintenance Helps Prevent Costly Heating Emergencies",
+      "chars": 86
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Warning Signs Your Home Needs AC Repair Right Away",
+      "chars": 50
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "When to Schedule Stratford AC Repair Before Peak Summer Heat",
+      "chars": 60
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "How quickly can you respond to emergency HVAC repairs?",
+      "chars": 54
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We prioritize urgent service calls and work to restore heating or cooling as quickly as possible — often the same day.",
+      "chars": 118
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "Do you service all brands of furnaces and air conditioners?",
+      "chars": 59
+    },
+    {
+      "tag": "p",
+      "kind": "faq_answer",
+      "text": "Yes. Our technicians are trained to repair and maintain all major HVAC brands and models.",
+      "chars": 89
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "How often should my HVAC system be serviced?",
+      "chars": 44
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Most systems should be professionally inspected and maintained at least once per year for safe and efficient performance.",
+      "chars": 121
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "What are common signs my air conditioner needs repair?",
+      "chars": 54
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Weak airflow, warm air, unusual noises, higher energy bills, or frequent cycling are all signs your system needs attention.",
+      "chars": 123
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "Are heat pumps effective in Ontario’s climate?",
+      "chars": 46
+    },
+    {
+      "tag": "p",
+      "kind": "faq_answer",
+      "text": "Yes. Modern heat pumps are designed to operate efficiently in cold weather while providing reliable heating and cooling year-round.",
+      "chars": 131
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "Will duct cleaning improve my indoor air quality?",
+      "chars": 49
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Removing dust and debris from your ductwork can improve airflow, enhance system efficiency, and support healthier indoor air.",
+      "chars": 125
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "How do I know if I should repair or replace my HVAC system?",
+      "chars": 59
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "If your system is older, needs frequent repairs, or struggles to maintain comfort, replacement may be more cost-effective. Our team can help you choose the best option.",
+      "chars": 168
+    }
+  ],
+  "text_chars": 4739,
+  "paragraph_chars": 3640
+}
